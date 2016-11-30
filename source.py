@@ -1,6 +1,6 @@
 '''
-    Name: Algorithms Project 2
-    Description: Compression
+    Name: source.py
+    Description: Huffman Coding
 '''
 
 import queue
