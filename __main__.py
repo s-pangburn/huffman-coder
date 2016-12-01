@@ -1,6 +1,6 @@
 '''
-    Name: source.py
-    Description: Huffman Coding
+    Name: __main__.py
+    Description: Huffman Coding (Python 3.3)
 '''
 
 import queue
